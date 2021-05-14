@@ -1,0 +1,31 @@
+@font-face{
+    font-family: 'Itim', cursive !important;
+    src: url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+}
+
+.msg_card{
+    padding: 10px;
+    margin:10px;
+    width:fit-content;
+    font-family: 'Itim', cursive !important;
+}
+
+.carding-style h1,h2,h3,h4,h5{
+    font-family: 'Itim', cursive !important;
+    color:white
+}
+
+.msgusr__card{
+    margin-left:auto;
+    text-align: right !important;
+}
+
+.msg_curuser{
+    background-color: #3399ff !important;
+    color:white !important;
+}
+
+.msg_otuser{
+    background-color:#666666 !important;
+    color:white !important;
+}
